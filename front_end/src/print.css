@@ -1,0 +1,11 @@
+@media print {
+
+
+  .student-list svg{
+    display: none;
+    font-size: 12px; /* Adjust font size for print */
+    background-color: white; /* Set background color for print */
+  }
+
+  /* Add more print-specific styles for different elements */
+}
